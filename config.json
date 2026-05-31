@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperealculate",
+        "uuid": 582516,
+        "checksum": "18srqn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
